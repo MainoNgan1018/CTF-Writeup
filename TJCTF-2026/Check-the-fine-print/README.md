@@ -69,3 +69,8 @@ for i in range(1, 249):
     else:
         bits.append("?")
 print("".join(bits))
+```
+
+<img width="3065" height="1122" alt="image" src="https://github.com/user-attachments/assets/36935287-2eed-4b64-a2ec-b4f55a53bf2d" />
+
+Flag: tjctf{wow_you_actually_read_it}
