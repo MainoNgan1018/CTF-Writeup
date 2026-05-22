@@ -41,7 +41,7 @@ Dãy kí tự sinh ra 'icnst...' hoàn toàn trùng khớp với chuỗi kí t�
 Từ đây ta sẽ kết hợp các cụm vào để xem key nào mới cho ra flag chuẩn
 
 Script Python:
-```
+```bash
 # 36 byte Ciphertext thực sự ở cuối file bin
 ct = bytes.fromhex("1d090d07670f4404711b0c1e493202391c100640732b45056c0b26180e0b3e27130e5d0e")
 
