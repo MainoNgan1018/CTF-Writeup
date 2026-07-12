@@ -27,5 +27,6 @@ steghide extract -sf sg_remix2.wav
 ```
 
 <img width="2195" height="155" alt="image" src="https://github.com/user-attachments/assets/3d3a830e-f1be-4ce3-ba01-c1c99dd20fc5" />
+<img width="1835" height="715" alt="image" src="https://github.com/user-attachments/assets/a2cc2b66-0389-40a6-af5c-34a4b891da1a" />
 
 Flag: bronco{7h3y_g07_y0u_4g4in_didn'7_7h3y?}
