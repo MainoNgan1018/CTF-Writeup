@@ -11,7 +11,7 @@ Cho luôn lên tool Aperi'Solve thì ta thấy hint được giấu sau lớp m�
 
 Nó ghi Mật khẩu = năm phát hành của bài hát không phải nhạc phim (non-OST)
 
-Bài hát trong file `sg_remix2.wav` là một bản remix. Ta cần xác định bản gốc.
+Bài hát trong file `sg_remix2.wav` là một bản remix không lời. Ta cần xác định bản gốc.
 
 Mình cũng không biết tìm bản gốc như nào nên mình tra thông tin ca sĩ trên ảnh.
 
@@ -19,7 +19,7 @@ Mình cũng không biết tìm bản gốc như nào nên mình tra thông tin c
 
 MV hot của Rick Astley được phát hành năm 1987 nhưng mình thử làm mật khẩu không được, năm 1986 năm sáng tác xong cũng sai, còn năm 1988 là năm nhận giải thưởng đầu lại ra.
 
-Đề nhặc tới `steg command` khả năng cao đây là Steghide công cụ kinh điển thường được dùng để nhúng dữ liệu và file.
+Đề nhắc tới `steg command` khả năng cao đây là Steghide công cụ kinh điển thường được dùng để nhúng dữ liệu và file.
 
 Lệnh trích xuất: 
 ```
