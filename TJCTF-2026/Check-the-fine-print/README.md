@@ -14,7 +14,9 @@ Soi kĩ thì thấy nó lệch nhau đúng 1 byte tại offset 0x10A.
 
 <img width="1642" height="477" alt="image" src="https://github.com/user-attachments/assets/41439c31-5e97-47ef-bd0e-22fda13f24c8" />
 <img width="1777" height="505" alt="image" src="https://github.com/user-attachments/assets/5d5a8095-50f5-4a67-a87a-bfb5119023df" />
+
 Cấu trúc của chunk IHDR trong ảnh .png
+
 ```
 Width (4 byte)
 Height (4 byte)
@@ -38,6 +40,7 @@ Các byte này chính là byte 00 và 01 nằm sau 08 02 --> Đó là trường 
 ### CRC là gì?
 Đã đăng tải dưới dạng CRC 4 byte [loại khối + dữ liệu khối]
 (tên của khối + phần chứa cấu trúc thông tin)
+
 Tác giả đã thay đổi trường thuộc tính làm phần mềm tính lại mã CRC cho khối IHDR, kết quả nó nhảy sang một kí tự hoàn toàn khác mà strings đọc được
 
 Lấy lần lượt các byte từ 248 bức ảnh nhỏ
